@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime state and logs
+spoofer.log
+*.log
+.spoofer_state.json
+.spoofer_daemon.pid
+*.tmp
+
+# Environment and editor files
+.env
+.venv/
+env/
+venv/
+.idea/
+.vscode/
+*.swp
+*~
+.DS_Store
