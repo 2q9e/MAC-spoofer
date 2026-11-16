@@ -1,0 +1,41 @@
+SOURCE-AVAILABLE VIEW-ONLY LICENSE (SAVL-1.0)
+
+Copyright (c) 2026 2q9e, solely for material owned by or licensable by 2q9e. All rights reserved.
+
+This is a custom source-available license. It is not an open-source license.
+
+1. Scope
+
+"Covered Material" means only the original source code, documentation, and other copyrightable material in this repository that 2q9e owns or is authorized to license. Covered Material excludes third-party, upstream, separately licensed, and independently owned material, including material identified by its own notice or license. This license does not change the terms that apply to excluded material.
+
+2. Limited permission to view
+
+You may access, view, read, and privately inspect the unmodified Covered Material solely for personal evaluation. You may make only transient copies technically necessary to view it through the hosting service. You may identify the project by name and link to its repository.
+
+No other permission is granted. In particular, you may not use, run, deploy, copy, reproduce, modify, adapt, create derivative works from, publish, distribute, sublicense, sell, or otherwise exploit any Covered Material, in whole or in part, without prior written permission from 2q9e. This applies to commercial and non-commercial use.
+
+3. No coding-reference use
+
+You may not use any Covered Material as a coding reference, example, template, specification, design, or blueprint to write, generate, complete, debug, test, review, or modify software or source code. You may not use it to build or improve a competing or similar implementation.
+
+4. No AI or automated-system use
+
+You may not submit, upload, paste, prompt with, provide, or otherwise expose any Covered Material to an AI, machine-learning, large-language-model, code-generation, code-completion, or autonomous-agent system or service. You may not use Covered Material to train, fine-tune, distill, evaluate, benchmark, test, index, embed, or create a retrieval store for any such system. You may not direct or permit an agent, tool, service, or another person to do any of these things on your behalf, or use its output to create or modify code based on Covered Material.
+
+5. Rights reserved and limits
+
+All rights not expressly granted are reserved. This license does not grant rights to trademarks, logos, names, hosted services, or user data. It does not claim ownership of ideas, facts, methods, processes, or functionality, and does not restrict independent development that does not use Covered Material. It does not restrict any use or exception that applicable law does not allow a copyright holder to restrict.
+
+6. Third-party material and hosting-service terms
+
+Third-party and upstream material remains subject to its own license or other terms; this license grants no rights in that material. Where this repository is public, the hosting service may allow users to view and fork its contents under the service's terms. The hosting service also has its own license to process content, including for AI features. This license governs only rights the copyright holders grant directly and does not revoke separate rights granted through the hosting service's terms or functionality.
+
+7. Termination
+
+The permission in Section 2 ends automatically if you breach this license. You must stop the unpermitted use and delete copies made under this license, except where retention is required by law. Permission may be restored only by written consent from 2q9e.
+
+8. Disclaimer
+
+THE COVERED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, TO THE MAXIMUM EXTENT PERMITTED BY LAW. TO THE MAXIMUM EXTENT PERMITTED BY LAW, 2Q9E WILL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE COVERED MATERIAL OR ITS USE.
+
+For written permission, contact 2q9e through GitHub.
