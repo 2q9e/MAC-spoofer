@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 spoofer.py: Main CLI utility for MAC address privacy & spoofing.
 Commands:

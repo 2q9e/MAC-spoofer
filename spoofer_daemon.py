@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 spoofer_daemon.py: Background detached daemon for the spoofer MAC privacy tool.
 Monitors NetworkManager events, handles network transitions, connection profile updates,

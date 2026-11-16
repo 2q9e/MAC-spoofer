@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 State management for spoofer tool.
 Stores runtime state, original permanent MAC, spoofed MAC, daemon PID, and timestamps.

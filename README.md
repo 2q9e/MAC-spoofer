@@ -1,3 +1,5 @@
+<!-- Copyright (c) 2026 2q9e. See LICENSE for terms. -->
+
 # MAC Address Spoofer (`spoofer`)
 
 A robust, production-grade Linux MAC address privacy utility that disguises your device as an authentic PC laptop (Dell, Alienware, HP, Lenovo, ASUS, Acer, Framework, Razer, MSI, LG) by assigning genuine IEEE-registered vendor OUIs (globally administered unicast addresses) and rotating addresses on demand.

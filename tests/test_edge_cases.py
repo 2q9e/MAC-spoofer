@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See ../LICENSE for terms.
+
 """
 Unit tests for edge cases:
 - Pre-connection: tool starting before any network is connected.

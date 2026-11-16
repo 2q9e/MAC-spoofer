@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 NetworkManager interaction and system networking helpers for spoofer.
 Handles device detection, MAC queries, connection profile updates, reconnection,

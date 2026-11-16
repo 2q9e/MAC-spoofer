@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 laptop_database.py: Database of authentic PC laptop models, hardware vendors,
 and genuine IEEE-registered OUIs.

@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See ../LICENSE for terms.
+
 """
 Unit tests for state management in state.py.
 """

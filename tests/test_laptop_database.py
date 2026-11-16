@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See ../LICENSE for terms.
+
 """
 Unit tests for laptop_database.py.
 Verifies all 30+ PC laptop models, OUI validity against IEEE database,

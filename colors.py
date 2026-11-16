@@ -1,3 +1,5 @@
+# Copyright (c) 2026 2q9e. See LICENSE for terms.
+
 """
 colors.py: Terminal styling and color utilities for spoofer.
 Provides ANSI colors, formatting badges, banners, and ANSI stripping for clean log files.
